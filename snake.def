@@ -1,0 +1,4 @@
+LIBRARY   snake
+EXPORTS
+   TeamName
+   NextStep

@@ -1,0 +1,3 @@
+编译完dll后用upload.bat上传
+
+upload.bat里的路径替换成自己的路径
